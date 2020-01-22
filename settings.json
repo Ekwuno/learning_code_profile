@@ -7,7 +7,7 @@
     "editor.fontSize": 18,
     "editor.tabCompletion": "on",
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Night Owl",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "line",
     "editor.minimap.renderCharacters": false,
